@@ -14,5 +14,5 @@ Seed stage startup discovery platform
 1. Scrapping for Facebook, Jobs, Evaluation done
 
 ##Conttributors
-1. (Soumyadeep Mukherjee)[https://github.com/sam17]  
-2. (Vivek Aithal)[https://github.com/nuwandavek]  
+1. [Soumyadeep Mukherjee](https://github.com/sam17)  
+2. [Vivek Aithal](https://github.com/nuwandavek)
